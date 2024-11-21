@@ -1,3 +1,3 @@
-module github.com/Vulnpire/hexdox
+module github.com/Vulnpire/HexDox
 
 go 1.23.2
